@@ -3,9 +3,8 @@
 - 🌱 I’m currently improving my MySql skills
 - 😎 C# is the greatest language
 
-          
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurTschinkel25)](https://github.com/anuraghazra/github-readme-stats)
-<div style="display: inline_block"><br>
+
+  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
