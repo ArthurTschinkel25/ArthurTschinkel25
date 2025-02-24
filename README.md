@@ -1,5 +1,5 @@
 ### Hi there!
-- 🔭 I’m a Back-End developer
+- 🔭 I’m a Full-Stack developer
 - 🌱 I’m currently improving my MySql skills
 
 
