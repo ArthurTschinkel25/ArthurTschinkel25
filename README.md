@@ -1,7 +1,7 @@
 ### Hi there!
 - 🔭 I’m a Back-End developer
 - 🌱 I’m currently improving my MySql skills
-- 😎 C# is the greatest language
+
 
 
   <div style="display: inline_block"><br>
