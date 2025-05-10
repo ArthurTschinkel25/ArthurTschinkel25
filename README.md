@@ -1,6 +1,6 @@
 ### Hi there!
 - 🔭 I’m a Full-Stack developer
-- 🌱 I’m currently improving my MySql skills
+- 🌱 I’m currently improving my PHP skills
 
 
 
