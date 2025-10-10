@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm <span style="color:#ff4b81;">Arthur Tschinkel</span></h1>
 <h3 align="center">💻 Back-End Developer | C# & PHP Enthusiast | Continuous Learner 🚀</h3>
 
-🧠 About Me
+## 🧠 About Me
 <p align="center">
 I'm a Back-End Developer with focus on languages such as C#, PHP and their frameworks. I have good knowledge of .NET, LARAVEL, ASP.NET, LIVEWIRE, LINQ and JAVASCRIPT 
 
@@ -40,7 +40,7 @@ But one of my strongest skills gotta be SQL, mainly connected to Mysql and Postg
 </tr>
 </table>
 
-🗄️ Database
+## 🗄️ Database
 <table align="center">
 <tr>
 <td align="center" width="120">
@@ -64,7 +64,7 @@ But one of my strongest skills gotta be SQL, mainly connected to Mysql and Postg
 </tr>
 </table>
 
-⚙️ Tools & Others
+## ⚙️ Tools & Others
 <table align="center">
 <tr>
 <td align="center" width="96">
@@ -106,10 +106,10 @@ DBeaver
 </tr>
 </table>
 
-📈 GitHub Stats
+## 📈 GitHub Stats
 <p align="center">
 <a href="https://github.com/ArthurTschinkel">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurTschinkel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurTschinkel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_buster=1"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurTschinkel&layout=compact&langs_count=7&theme=radical"/>
 </a>
 </p>
