@@ -131,7 +131,6 @@ Laravel > - API Development > - Software Architecture > - Performance Optimizati
 </p>
 
 <p align="center">
-<i>💼 Open to new opportunities and collaborations!</i>
 
 
 <img src="https://komarev.com/ghpvc/?username=ArthurTschinkel&color=blueviolet" alt="Profile views"/>
