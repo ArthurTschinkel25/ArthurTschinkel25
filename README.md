@@ -3,7 +3,7 @@
 
 ## 🧠 About Me
 <p align="center">
-I'm a Back-End Developer with focus on languages such as C#, PHP and their frameworks. I have good knowledge of .NET, LARAVEL, ASP.NET, LIVEWIRE, LINQ and JAVASCRIPT 
+I'm a Back-End Developer with focus on languages such as C#, PHP and their frameworks. I have good knowledge of .NET, LARAVEL, ASP.NET, LIVEWIRE, LINQ and JAVASCRIPT 
 
 
 But one of my strongest skills gotta be SQL, mainly connected to Mysql and PostgreSQL, through my professional and academic experience.
@@ -109,8 +109,8 @@ DBeaver
 ## 📈 GitHub Stats
 <p align="center">
 <a href="https://github.com/ArthurTschinkel">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurTschinkel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_buster=1"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurTschinkel&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats-drpin-five-15.vercel.app/api?username=ArthurTschinkel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-drpin-five-15.vercel.app/api/top-langs/?username=ArthurTschinkel&layout=compact&langs_count=7&theme=radical"/>
 </a>
 </p>
 <p align="center">
@@ -128,4 +128,11 @@ Laravel > - API Development > - Software Architecture > - Performance Optimizati
 <a href="mailto:arthurtschinkel25@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+</p>
+
+<p align="center">
+<i>💼 Open to new opportunities and collaborations!</i>
+
+
+<img src="https://komarev.com/ghpvc/?username=ArthurTschinkel&color=blueviolet" alt="Profile views"/>
 </p>
