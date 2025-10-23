@@ -1,131 +1,63 @@
-<h1 align="center">👋 Hello! I'm <span style="color:#ff4b81;">Arthur Tschinkel</span></h1>
-<h3 align="center">💻 Back-End Developer | C# & PHP Enthusiast | Continuous Learner 🚀</h3>
-
-## 🧠 About Me
-<p align="center">
-I'm a Back-End Developer with focus on languages such as C#, PHP and their frameworks. I have good knowledge of .NET, LARAVEL, ASP.NET, LIVEWIRE, LINQ and JAVASCRIPT 
-
-
-But one of my strongest skills gotta be SQL, mainly connected to Mysql and PostgreSQL, through my professional and academic experience.
-</p>
-
-🛠️ Tech Stack
-🧩 Backend Development
-<table align="center">
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" title="PHP"/>
-
-
-<strong>PHP</strong>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="45" title="Laravel"/>
-
-
-<strong>Laravel</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="45" title="C#"/>
-
-
-<strong>C#</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="45" title=".NET"/>
-
-
-<strong>.NET</strong>
-</td>
-</tr>
+<table>
+  <tr>
+    <td>
+      <h2 align="left">Hello! I'm Arthur Tschinkel 👋</h2>
+      <h3 align="left">🧠 About Me</h3>
+      <p align="left">
+        I'm a Back-End Developer with focus on languages such as C#, PHP and their frameworks. I have good knowledge of .NET, LARAVEL, ASP.NET, LIVEWIRE, LINQ and JAVASCRIPT 
+        <br><br>
+        But one of my strongest skills gotta be SQL, mainly connected to Mysql and PostgreSQL, through my professional and academic experience.
+      </p>
+    </td>
+    <td>
+      <img align="right" height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZ2b3N2Z3A1aGhmajcwbW9ldjNwaDF2OGo5cWU1OG9wNjloaXc2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ng88DijbQOzq8nPJmv/giphy.gif" />
+    </td>
+  </tr>
 </table>
 
-## 🗄️ Database
-<table align="center">
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="MySQL"/>
+###
 
+<h2 align="left">💻 Languages</h2>
 
-<strong>MySQL</strong>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" title="SQL Server"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="30" alt="csharp logo" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="30" alt="dotnet logo" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30" alt="php logo" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="30" alt="laravel logo" />
+  <img src="https://img.shields.io/badge/Livewire-4F5B9E?style=for-the-badge&logo=livewire&logoColor=white" height="30" alt="livewire logo" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" alt="javascript logo" />
+  <br>
+</div>
 
+###
 
-<strong>SQL Server</strong>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" title="PostgreSQL"/>
+###
 
+<h2 align="left">🗄️ Database</h2>
 
-<strong>PostgreSQL</strong>
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="mysql logo" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="postgresql logo" />
+</div>
 
-## ⚙️ Tools & Others
-<table align="center">
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git"/>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurtschinkel25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurtschinkel25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
+</div>
 
-Git
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" title="VS Code"/>
+###
 
+<img src="https://raw.githubusercontent.com/arthurtschinkel25/arthurtschinkel25/output/snake.svg" alt="Snake animation" />
 
-VS Code
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" title="Visual Studio"/>
+###
 
-
-Visual Studio
-</td>
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/postman/FF6C37" height="45" title="Postman"/>
-
-
-Postman
-</td>
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/phpstorm/000000" height="45" title="PhpStorm"/>
-
-
-PhpStorm
-</td>
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/dbeaver/1791A1" height="45" title="DBeaver"/>
-
-
-DBeaver
-</td>
-</tr>
-</table>
-
-## 📈 GitHub Stats
-<p align="center">
-<a href="https://github.com/ArthurTschinkel">
-<img height="180em" src="https://github-readme-stats-drpin-five-15.vercel.app/api?username=ArthurTschinkel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-drpin-five-15.vercel.app/api/top-langs/?username=ArthurTschinkel&layout=compact&langs_count=7&theme=radical"/>
-</a>
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurTschinkel&theme=radical" alt="Arthur's GitHub Streak"/>
-</p>
-
-🌱 Currently Improving
-Laravel > - API Development > - Software Architecture > - Performance Optimization ---
-
-📫 Let's Connect!
-<p align="center">
-<a href="https://www.linkedin.com/in/arthur-tschinkel-da-silva-352095294/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:arthurtschinkel25@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-</p>
+<div align="center">
+  <a href="mailto:arthurtschinkel25@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/arthur-tschinkel-da-silva-352095294" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
