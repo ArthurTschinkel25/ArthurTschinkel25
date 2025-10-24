@@ -2,32 +2,27 @@
 name: Generate Snake Animation
 
 on:
-  # Roda automaticamente a cada 12 horas
   schedule:
     - cron: "0 */12 * * *"
-
-  # Permite rodar manualmente pela aba "Actions" do GitHub
+  
   workflow_dispatch:
 
 jobs:
   build:
+    permissions:
+      contents: write
+      
     runs-on: ubuntu-latest
-
+    
     steps:
-      # 1. Faz o checkout do seu repositório
       - uses: actions/checkout@v3
 
-      # 2. Gera o arquivo snake.svg
       - uses: Platane/snk@v3
         with:
-          # Seu nome de usuário do GitHub
           github_user_name: arthurtschinkel25
-
-          # O nome do arquivo de saída, exatamente como está no seu README.md
-          # A action vai CRIAR a pasta 'output' se ela não existir
+          
           outputs: output/snake.svg
-
-      # 3. Faz o commit e envia o arquivo gerado para o seu repositório
+        
       - name: Commit and Push snake.svg
         run: |
           git config --local user.email "action@github.com"
