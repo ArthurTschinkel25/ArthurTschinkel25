@@ -1,10 +1,8 @@
-# Nome do Workflow
 name: Generate Snake Animation
 
 on:
   schedule:
     - cron: "0 */12 * * *"
-  
   workflow_dispatch:
 
 jobs:
@@ -20,18 +18,26 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: arthurtschinkel25
-          
           outputs: output/snake.svg
-        
-      - name: Commit and Push snake.svg
+      
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: arthurtschinkel25
+          outputs: output/snake-dark.svg
+          color_snake: '#000000'
+          color_dots: '#333333'
+
+      # 3. Faz o commit de AMBOS os arquivos
+      - name: Commit and Push snake files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          # Adiciona os dois arquivos
           git add output/snake.svg
-          # Verifica se há mudanças antes de tentar fazer o commit
+          git add output/snake-dark.svg
           if git diff --staged --quiet; then
             echo "Nenhuma mudança na animação, commit não é necessário."
           else
-            git commit -m "feat: update snake contribution grid"
+            git commit -m "feat: update snake contribution grid (light/dark)"
             git push
           fi
